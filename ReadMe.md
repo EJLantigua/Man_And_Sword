@@ -20,5 +20,3 @@
 * - Game logic on Canopy's Parallax effect
 * - Prefab variant on Base Death Prefab to use on the Bush Death VFX 
 * - Wrote a Destructible.cs script to trigger Bush Death VFX animation.
-
-
