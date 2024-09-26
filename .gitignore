@@ -70,5 +70,4 @@ Thumbs.db
 # AddressableAssetsData/*.bin
 
 # Allow specific .dll and .exe to allow to run the standalone build
-/GameDemo/*
-!/GameDemo/*
+!/Man_And_Sword/GameDemo/
